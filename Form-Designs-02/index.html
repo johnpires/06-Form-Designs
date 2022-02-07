@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Form Designs - 02</title>
+</head>
+<body>
+    <form action="javascript:void(0)" class="login-form" method="get" autocomplete="off" role="main" id="login-form">
+
+        <h1 class="a11y-hidden">Login Form</h1>
+        <div>
+            <label for="label-email">
+                <input type="email" class="text" name="email" placeholder="email" tabindex="1" required />
+                <span class="required">Email</span>
+            </label>
+        </div>
+
+        <input type="checkbox" class="show-passwword a11y-hidden" name="show-password" id="show-password" tabindex="3">
+
+        <label for="show-password" class="label-show-password">
+           <span> Show Password</span>
+        </label>
+
+        <div>
+            <label for="label-password">
+                <input type="password" class="text" name="password" placeholder="password" tabindex="2" required />
+                <span class="required">Password</span>
+            </label>
+        </div>
+
+        <input type="submit" value="Log In" />
+        <div class="emnail">
+            <a href="#">Forgot Password</a>
+        </div>
+
+        <figure aria-hidden="true">
+            <div class="person-body"></div>
+            <div class="nech skin"></div>
+            <div class="head skin">
+                <div class="eyes"></div>
+                <div class="mouth"></div>
+            </div>
+            <div class="hair"></div>
+            <div class="ears"></div>
+            <div class="shirt-1"></div>
+            <div class="shirt-2"></div>
+        </figure>
+    </form>
+</body>
+</html>
