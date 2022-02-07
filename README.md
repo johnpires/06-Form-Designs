@@ -11,11 +11,11 @@ CURSOS LINK 👇
 
 |  #  | Projeto                                                                                                      | Youtube Link    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Form Designs-1]()      | Clique aqui |
-| 02  | [Form Designs-2]()      | Clique aqui |
-| 03  | [Form Designs-3]()      | Clique aqui |
-| 04  | [Form Designs-4]()      | Clique aqui |
-| 05  | [Form Designs-5]()      | Clique aqui |
+| 01  | [Form Designs-1](https://github.com/johnpires/06-Form-Designs/tree/main/Form-Designs-01)      | Clique aqui |
+| 02  | [Form Designs-2](https://github.com/johnpires/06-Form-Designs/tree/main/Form-Designs-02)      | Clique aqui |
+| 03  | [Form Designs-3](https://github.com/johnpires/06-Form-Designs/tree/main/Form-Designs-03)      | Clique aqui |
+| 04  | [Form Designs-4](https://github.com/johnpires/06-Form-Designs/tree/main/Form-Designs-04)      | Clique aqui |
+| 05  | [Form Designs-5](https://github.com/johnpires/06-Form-Designs/tree/main/Form-Designs-05)      | Clique aqui |
 | 06  | [Form Designs-6]()      | Clique aqui |
 | 07  | [Form Designs-7]()      | Clique aqui |
 | 08  | [Form Designs-8]()      | Clique aqui |
