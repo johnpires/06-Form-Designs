@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Designs - 09</title>
+  </head>
+  <body>
+
+    <div class="testbox">
+        <h1>Register</h1>
+
+        <form>
+            <hr>
+
+            <div class="accounttype">
+                <input type="radio" value="None" id="radioOne" name="account" checked>
+                <label for="radioOne" class="radio" chec>Personal</label>
+
+                <input type="radio" value="None" id="radioTwo" name="account">
+                <label for="radioTwo" class="radio">Company</label>
+            </div>
+
+            <label for="name" id="icon"> <i class="icon-envelope"></i> </label>
+            <input type="text" id="name" placeholder="Email" required>
+
+            <label for="email" id="icon"> <i class="icon-user"></i> </label>
+            <input type="text" placeholder="Name" id="name" required>
+
+            <label for="name" id="icon"> <i class="icon-shield"></i> </label>
+            <input type="password" placeholder="Password" id="name" required>
+
+            <div class="gender">
+                <input type="radio" value="None" id="male" name="gender" checked>
+                <label for="male" class="radio" chec>Male</label>
+
+                <input type="radio" value="None" id="female" name="gender">
+                <label for="female" class="radio">Female</label>
+            </div>
+            
+            <p>By cliking Register, your agree on our <a href="#">terms and conditions</a>. </p>
+            <a href="#" class="button">Register</a>
+        </form>
+    </div>
+
+  </body>
+</html>
